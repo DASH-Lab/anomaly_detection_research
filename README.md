@@ -67,7 +67,7 @@ Our published papers that related to detecting anomalies on time series.
 
 #### Research Project Involvements
 
-2021.-2022. 무인이동체 다변량 데이터 기반 추이 모델링 및 이상탐지 (국가보안기술연구소)
+2021,2022. 무인이동체 다변량 데이터 기반 추이 모델링 및 이상탐지 (국가보안기술연구소)
 
 2020. 인공지능 활용 위성영상 자동탐지 기술개발 추진방안 (한국연구재단) 
 
@@ -77,7 +77,7 @@ Our published papers that related to detecting anomalies on time series.
 
 2019.  AI 기반 위성상태데이터 고장탐지 구현 및 검증방안 연구 (항우연)
 
-2019-2020. 차세대 지능형 고신뢰 에너지 클라우드 통합 보안 시스템 연구 (IITP) 
+2019,2020. 차세대 지능형 고신뢰 에너지 클라우드 통합 보안 시스템 연구 (IITP) 
 https://www.oecp.kaist.ac.kr/research
 
 2019. 제어시스템 운영정보 예측오차 패턴을 이용한 이상탐지 방안 연구 (국가보안기술연구소)
