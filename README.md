@@ -9,7 +9,7 @@ Our published papers that related to detecting anomalies on time series.
 
 #### Paper List:
 
-#### Cyber Physical System (CPS) anonaly detection
+#### Cyber Physical System (CPS) Anonaly Detection
 
 **`2022`**: `Towards an Awareness of Time Series Anomaly Detection Models' Adversarial Vulnerability` **CIKM22**. [[paper](https://dl.acm.org/doi/10.1145/3511808.3557073)]
 
@@ -17,9 +17,15 @@ Our published papers that related to detecting anomalies on time series.
 
 **`2022`**: `Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series` accepted by **KDD22**. [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539117)]
 
+(GNN + explainability)
+
 **`2022`**: `Residual Size is Not Enough for Anomaly Detection: Improving Detection Performance using Residual Similarity in Multivariate Time Series` accepted by **ACM-SAC22**. [[paper](https://dl.acm.org/doi/10.1145/3477314.3506990)]
+(Nearest Neighbors based approach)
 
 **`2021`**: `Revitalizing Self-Organizing Map: Anomaly Detection using Forecasting Error Patterns` accepted by **IFIP-SEC21**. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-78120-0_25)]
+
+(Self-Organizing Maps (SOM) based anomaly detection approach)
+
 
 **`2020`**: `ITAD: Integrative Tensor-based Anomaly Detection System for Reducing False Postives of Satellite Systems` accepted by **CIKM20**. [[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3412716)]
 
