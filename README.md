@@ -67,7 +67,7 @@ Our published papers that related to detecting anomalies on time series.
 
 #### Research Project Involvement
 
-2021.-2022. 무인이동체 다변량 데이터 기반 추이 모델링 및 이상탐지 (국가보안기술연구소)
+2021-2022. 무인이동체 다변량 데이터 기반 추이 모델링 및 이상탐지 (국가보안기술연구소)
 
 2020. 인공지능 활용 위성영상 자동탐지 기술개발 추진방안 (한국연구재단) 
 
