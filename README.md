@@ -12,6 +12,14 @@ Our published papers that related to detecting anomalies on time series.
 
 #### Cyber Physical System (CPS) Anonaly Detection
 
+**`2024`**: `SSMT: Few-Shot Traffic Forecasting with Single Source Meta-Transfer Learning` **ICPR24**.
+
+**`2024`**: `MIXAD: Memory-Induced Explainable Time Series Anomaly Detection` **ICPR24**.
+
+**`2024`**: `STLGRU: Spatio-Temporal Lightweight Graph GRU for Traffic Flow Prediction` **PAKDD24**. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-2266-2_23)]
+
+**`2024`**: `RAAD: Reinforced Adversarial Anomaly Detector` **SAC24**. [[paper](https://dl.acm.org/doi/10.1145/3605098.3635920)]
+
 **`2022`**: `Towards an Awareness of Time Series Anomaly Detection Models' Adversarial Vulnerability` **CIKM22**. [[paper](https://dl.acm.org/doi/10.1145/3511808.3557073)]
 
 (Evaluated various anomaly detection algorithms against adversarial attacks.)
@@ -35,6 +43,14 @@ Our published papers that related to detecting anomalies on time series.
 
 #### Satellite System (CPS) Anonaly Detection
 
+**`2024`**: `Satellite State Prediction and Maneuver Detection Analysis using NCDEs` **ICPR24**.
+
+**`2024`**: `Decomposed Attention Segment Recurrent Neural Network for Orbit Prediction` **KDD24**.
+
+**`2024`**: `Revisiting 30 years of the Network Time Protocol` **WWW24**. [[paper](https://dl.acm.org/doi/abs/10.1145/3589335.3651998)]
+
+**`2024`**: `Saliency-aware Time Series Anomaly Detection for Space Applications` **PAKDD24**. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-2242-6_26)]
+
 **`2022`**: `Selective Tensorized Multi-layer LSTM for Orbit Prediction` **CIKM22**. [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557138)]
 
 (Tensor Train-based forecasting and anomaly detection approach)
@@ -47,7 +63,7 @@ Our published papers that related to detecting anomalies on time series.
 
 
 
-#### Automobile/Vehicle Anonaly Detection
+#### Automobile/Vehicle Anomaly Detection
 
 **`2020`**: `CAN-ADF: The Controller Area Network Attack Detection Framework` accepted by **Computers&Security20**. [[paper](https://www.sciencedirect.com/science/article/pii/S0167404820301292#:~:text=In%20this%20work%2C%20we%20propose,system%20for%20a%20CAN%20bus.&text=Our%20detection%20algorithm%20achieves%20accurate,CAN%20datasets%2C%20outperforming%20prior%20approach.)]
 
@@ -59,9 +75,24 @@ Our published papers that related to detecting anomalies on time series.
 
 #### Real World Applications
 
+**`2024`**: `Deep Journey Hierarchical Attention Networks for Predictions in Digital Marketing` **CIKM24**.
+
+**`2024`**: `Development of Deep Learning-based Algorithm for Extracting Abnormal Deceleration Patterns` **EVS37**.
+
+**`2024`**: `Action Attention GRU: A Data-Driven Approach for Enhancing Purchase Predictions in Digital Marketing` **SAC24**. [[paper](https://dl.acm.org/doi/10.1145/3605098.3635958)]
+
+**`2023`**: `Distance adaptive graph convolutional gated network-based smart air quality monitoring and health risk prediction in sensor-devoid urban areas` **Journal of Sustainable Cities and Society**. [[paper](https://www.sciencedirect.com/science/article/pii/S2210670723000562)]
+
 **`2020`**: `Who is Delivering My Food?: Detecting Food Delivery Abusers using Variational Reward Inference Networks` accepted by **CIKM20**. [[paper](https://dl.acm.org/doi/10.1145/3340531.3412750)]
 
 (Food delivery person cheater detection)
+
+
+
+#### Data Privacy and Security
+
+**`2022`**: `STL-DP: Differentially Private Time Series Exploring Decomposition and Compression Methods` accepted by **CIKM22**. [[paper](https://ceur-ws.org/Vol-3318/short5.pdf)]
+
 
 
 
